@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-I'm an undergraduate Electrical Engineering student, focusing in telecommunication field especially on network and IoT. Currently doing intern as an IoT and Digital Twin Engineer. In the project, i'm contributing as a Software Developer specialized in Front End Web Developer. In my work, i'm using Typescript, NextJS, Tailwind, and ShadcnUI.<br>I'm looking forward to become a software engineer in the future.
+I'm an undergraduate Electrical Engineering student, focusing in telecommunication field especially on network and IoT. Currently doing intern as an IoT and Digital Twin Engineer. In the project, i'm contributing as a Software Developer specialized in Front End Web Developer. In my work, i'm using Typescript, NextJS, Tailwind, and ShadcnUI. I'm looking forward to become a software engineer in the future.
 
 
 ## 🌐 Socials:
