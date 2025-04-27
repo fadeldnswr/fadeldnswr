@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm an undergraduate Electrical Engineering student, focusing in telecommunication field especially on Network, IoT, and Software Development. Currently doing intern as an IoT and Digital Twin Engineer. In the project, i'm contributing as a Software Developer specialized in Front End Web Developer. In my work, i'm using Typescript, NextJS, Tailwind, and ShadcnUI. I'm looking forward to become a software engineer in the future.
+👋 Hi there! I'm an undergraduate student majoring in Electrical Engineering, specializing in Telecommunications.
+📡 Passionate about combining my background in telecom with the power of Data Science and AI/ML.
+🚀 I’m particularly interested in leveraging machine learning and data-driven insights to solve real-world challenges in the telecommunications industry — from optimizing networks to enhancing customer experience.
+🧠 Skilled in data analysis, machine learning models, and AI applications, I'm always exploring innovative ways to bridge the gap between communication technologies and intelligent systems.
+🌱 Currently building projects, learning from every experiment, and aiming to contribute impactful solutions to the future of telecom.
+
+Let's connect and build something amazing!
 
 
 ## 🌐 Socials:
