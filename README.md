@@ -1,4 +1,3 @@
-# 💫 About Me:
 ## 👋 Hi there! 
 I'm an undergraduate student majoring in Electrical Engineering, specializing in Telecommunications. With the passion about combining my background in telecom with the power of Data Science and AI/ML.
 ### Interests 🚀
