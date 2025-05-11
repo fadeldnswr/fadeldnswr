@@ -1,9 +1,11 @@
 # 💫 About Me:
-👋 Hi there! I'm an undergraduate student majoring in Electrical Engineering, specializing in Telecommunications.
-📡 Passionate about combining my background in telecom with the power of Data Science and AI/ML.
-🚀 I’m particularly interested in leveraging machine learning and data-driven insights to solve real-world challenges in the telecommunications industry — from optimizing networks to enhancing customer experience.
-🧠 Skilled in data analysis, machine learning models, and AI applications, I'm always exploring innovative ways to bridge the gap between communication technologies and intelligent systems.
-🌱 Currently building projects, learning from every experiment, and aiming to contribute impactful solutions to the future of telecom.
+## 👋 Hi there! 
+I'm an undergraduate student majoring in Electrical Engineering, specializing in Telecommunications. With the passion about combining my background in telecom with the power of Data Science and AI/ML.
+### Interests 🚀
+- Machine Learning
+- AI
+- Internet of Things
+I’m particularly interested in leveraging those interests and data-driven insights to solve real-world challenges in the telecommunications industry — from optimizing networks to enhancing customer experience. 🌱 Currently building projects, learning from every experiment, and aiming to contribute impactful solutions to the future of telecom.
 
 Let's connect and build something amazing!
 
