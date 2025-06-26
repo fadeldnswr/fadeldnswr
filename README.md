@@ -4,6 +4,7 @@ I'm an undergraduate student majoring in Electrical Engineering, specializing in
 - Machine Learning
 - AI
 - Internet of Things
+- Digital Twin
 
 I’m particularly interested in leveraging those interests and data-driven insights to solve real-world challenges in the telecommunications industry — from optimizing networks to enhancing customer experience. 🌱 Currently building projects, learning from every experiment, and aiming to contribute impactful solutions to the future of telecom.
 
