@@ -1,8 +1,8 @@
 ## 👋 Hi there! 
 I'm an undergraduate student majoring in Electrical Engineering, specializing in Telecommunications. With the passion about combining my background in telecom with the power of Data Science and AI/ML.
 ### Interests 🚀
-- Machine Learning
 - AI
+- Software Engineering
 - Internet of Things
 - Digital Twin
 
