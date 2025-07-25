@@ -1,16 +1,11 @@
-## 👋 Hi there! 
-I'm an undergraduate student majoring in Electrical Engineering, specializing in Telecommunications. With the passion about combining my background in telecom with the power of Data Science and AI/ML.
-### Interests 🚀
-- AI
-- Software Engineering
-- Internet of Things
-- Digital Twin
+## About Me
+I am an undergraduate student majoring in Electrical Engineering with a specialization in Telecommunications. My academic background is complemented by a strong passion for exploring the intersection of telecommunications and intelligent technologies such as Artificial Intelligence, Machine Learning, Software Engineering, and the Internet of Things.
 
-I’m particularly interested in leveraging those interests and data-driven insights to solve real-world challenges in the telecommunications industry — from optimizing networks to enhancing customer experience. 🌱 Currently building projects, learning from every experiment, and aiming to contribute impactful solutions to the future of telecom.
+## Interests & Focus
+I am particularly interested in applying data-driven methods and intelligent systems to solve real-world problems in the telecommunications industry—ranging from network performance optimization to enhancing user experiences and building intelligent infrastructure through Digital Twin technologies.
 
-Let's connect and build something amazing!
+## Current Work
+I’m actively building end-to-end technical projects, learning from real-world experimentation, and sharpening my ability to develop scalable and practical solutions. I aim to bridge domain-specific engineering knowledge with modern software and AI systems to contribute impactful innovations in telecom and beyond.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fadeldnswr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/fadeldaniswara/) 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Let’s Connect
+I’m always open to new collaborations, challenges, and conversations. If you’re working at the intersection of engineering and intelligent systems or looking to collaborate on meaningful technology solutions, feel free to reach out. Let’s create something impactful together.
