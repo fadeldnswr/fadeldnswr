@@ -1,5 +1,5 @@
 ## Fadel Achmad Daniswara
-An undergraduate student majoring in Electrical Engineering with a specialization in Telecommunications. My academic journey is strengthened by a strong passion for bridging the fields of telecommunications, intelligent technologies, and sustainable energy technologies. I actively explore **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, **Internet of Things (IoT)**, and **Digital Twin**, aiming to design scalable and intelligent solutions for real-world challenges.
+Electrical Engineering student with a specialization in Telecommunications. My academic journey is strengthened by a strong passion for bridging the fields of telecommunications, intelligent technologies, and sustainable energy technologies. Currently exploring **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, **Internet of Things (IoT)**, and **Digital Twin**, aiming to design scalable and intelligent solutions for real-world challenges.
 
 ## Domain Interests
 Passionate about leveraging IoT, Artificial Intelligence, and Digital Twin technologies to drive innovation in sustainable energy systems. My focus area of interests include:
@@ -9,4 +9,5 @@ Passionate about leveraging IoT, Artificial Intelligence, and Digital Twin techn
 - **AI-Driven Energy Optimization** – applying data-driven algorithms for demand forecasting, energy arbitrage, and operational efficiency in hybrid and microgrid environments.
 
 ## Projects
-Currently working on my bachelor thesis project called "Recommendation System Based on RUL and SoH Prediction for Smartphone Battery using Android Application and Internet of Things to Mitigate Electric Waste"
+I'am working on my bachelor thesis project called _"Recommendation System Based on RUL and SoH Prediction for Smartphone Battery using Android Application and Internet of Things to Mitigate Electric Waste"_. The goal of this
+project is to create personal dashboard for user to monitor their smartphone conditions, predict smartphone's **End of Life**, and give user recommendation regarding their smartphone's conditions.
