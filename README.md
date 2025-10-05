@@ -9,7 +9,4 @@ I am particularly interested in applying data-driven methods and intelligent sys
 - **Intelligent Infrastructure Development** – creating smart systems that combine connectivity, automation, and data intelligence to shape the future of digital ecosystems.
 
 ## Projects
-- Digital Twin Model for Internet of Things Network Traffic using Discrete Event Simulation
-- Internet of Things Traffic Forecasting using Recurrent Neural Network Models
-- Internet of Things Traffic Forecasting using ARIMA
-- Monthly Cashflow Simulation and Analysis (On-going)
+Currently working on my bachelor thesis project called "Recommendation System Based on RUL and SoH Prediction for Smartphone Battery using Android Application and Internet of Things to Mitigate Electric Waste"
