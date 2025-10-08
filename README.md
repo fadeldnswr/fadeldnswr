@@ -9,4 +9,4 @@ Passionate about leveraging IoT, Artificial Intelligence, and Digital Twin techn
 - **AI-Driven Energy Optimization** – applying data-driven algorithms for demand forecasting, energy arbitrage, and operational efficiency in hybrid and microgrid environments.
 
 ## Projects
-I'am working on my bachelor thesis project called _"Recommendation System Based on RUL and SoH Prediction for Smartphone Battery using Android Application and Internet of Things to Mitigate Electric Waste"_.
+Currently working on my bachelor thesis project called _"Recommendation System Based on RUL and SoH Prediction for Smartphone Battery using Android Application and Internet of Things to Mitigate Electric Waste"_.
