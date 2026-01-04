@@ -3,4 +3,5 @@ Electrical Engineering student with a specialization in Telecommunications. My a
 Currently exploring **Artificial Intelligence**, **Machine Learning**, **Software Engineering**, **Internet of Things (IoT)**, and **Digital Twin**, aiming to design scalable and intelligent solutions for real-world challenges.
 
 ## Projects
-Currently working on my bachelor thesis project called _"Recommendation System Based on RUL and SoH Prediction for Smartphone Battery using Android Application and Internet of Things to Mitigate Electric Waste"_.
+- Bachelor's Thesis Project: Smartphone Lifespan Determination Application Development Using State of Health Prediction, Remaining Useful Life Estimation, and Screen Damage Detection for Electronic Waste Mitigation
+- Fiber Optics Performance Engine using Go and Python to simulate fiber optics link communication performance with different parameters. The results are exported into CSV file for analysis and summary report needs.
