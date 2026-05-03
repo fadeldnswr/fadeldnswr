@@ -1,5 +1,5 @@
 ## Fadel Achmad Daniswara
-EE Graduate who accidentally works on a Software Engineering projects.
+Electrical Engineer & Telecommunication Engineering Specialist. Passionate about IoT & Digital Twins, Network Automation, and Full-stack Orchestration.
+Always questioning, 
 
-## Projects
-Working on internship project for large-scale FTTH network infrastructure digitalization and automation.
+`*"How to transforn complex and traditional processes into high-efficieny and data-driven insights"*.`
