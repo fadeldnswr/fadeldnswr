@@ -5,7 +5,7 @@ Always questioning, *"How to transforn complex and traditional processes into hi
 ### Featured Projects
 - **Backend**: Developing `belajar-arsitektur`, a clean towards layered architecture created using FastAPI for book management system use case.
 - **Frontend (Dashboard)**: Developed `network-ops-fe`, a fullstack dashboard for network health score monitoring built using NextJS.
-- **Embedded Intelligence**: Worked on `esp32-iot-forecasting` and `raspi-home-dt` for real-time data collection.
+- **Embedded Intelligence**: Worked on `esp32-iot-forecasting` and `raspi-home-dt` for D2D (device-to-device) real-time data collection.
 - **Simulation & GUI**: Prototyping `re-telco`, a telecommunications systems simulation GUI using PySide6 and mathematical models (QPSK, FFT, Encoder/Decoder, Channel Propagation)
 
 ### Stack
